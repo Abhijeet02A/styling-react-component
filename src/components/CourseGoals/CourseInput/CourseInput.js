@@ -30,8 +30,8 @@ const CourseInput = props => {
         <label >Course Goal</label>
         <input
           // style={{
-          //   borderColor: !isValid ? "red" : "black",
-          //   background: !isValid ? "salmon" : "transparent",
+            //   background: !isValid ? "salmon" : "transparent",
+            //   borderColor: !isValid ? "red" : "black",
           // }}
           type="text"
           onChange={goalInputChangeHandler}

@@ -34,7 +34,9 @@ const App = () => {
       <CourseGoalList items={courseGoals} onDeleteItem={deleteItemHandler} />
     );
   }
-
+// Method 
+// 1. Styled Components
+// 2. CSS modules
   return (
     <div>
       <section id="goal-form">
